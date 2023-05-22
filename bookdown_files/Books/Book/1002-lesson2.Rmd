@@ -1,7 +1,7 @@
 ---
 editor_options: 
   markdown: 
-    wrap: 72
+    wrap: 11
 ---
 
 # 第二讲：如何开始使用R {#lesson-2}
